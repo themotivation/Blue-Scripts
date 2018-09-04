@@ -1,2 +1,2 @@
 # Blue-Scripts
-HoomdBlue Jupiter Notebook Scripts
+HoomdBlue Jupyter Notebook Scripts
